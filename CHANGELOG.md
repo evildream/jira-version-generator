@@ -1,3 +1,8 @@
+## 3.0.1
+
+  - Update maven.yml to make it work
+  - Update README.md to correlate with current changes
+
 ## 3.0.0
 
   - upgrade to Bitbucket Server 9.4.17
