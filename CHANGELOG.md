@@ -1,5 +1,8 @@
 ## 3.0.1
 
+  - Migrate from Sonatype OSSRH to Central Publishing Maven Plugin for Maven Central releases
+  - Add GitHub Actions workflow to auto-create GitHub releases on tag push
+  - Upgrade maven-gpg-plugin from 1.6 to 3.1.0
   - Update maven.yml to make it work
   - Update README.md to correlate with current changes
 
