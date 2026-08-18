@@ -7,6 +7,7 @@
   - add explicit JUnit 4.13.2 test dependency (no longer available transitively after removing `bitbucket-page-objects`)
   - replace the removed `TestApplicationUser` test helper (dropped from `bitbucket-test-util` in Bitbucket 10) with a Mockito `Person` mock
   - bump AssertJ from 3.5.2 to 3.27.7 to address CVE-2026-24400
+  - remove unused `jackson.version` property (Jackson is provided by the Bitbucket platform BOM)
 
 ## 3.0.1
 

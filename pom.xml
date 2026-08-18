@@ -66,7 +66,6 @@
 		<bitbucket.version>10.2.6</bitbucket.version>
 		<amps.version>9.9.1</amps.version>
 		<slf4j.version>1.7.21</slf4j.version>
-		<jackson.version>2.12.4</jackson.version>
 		<assertj-core.version>3.27.7</assertj-core.version>
 		<mockito-core.version>5.23.0</mockito-core.version>
 		<junit.version>4.13.2</junit.version>
